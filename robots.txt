@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avisnet-ship-it.github.io/succeed-on-kindle/sitemap.xml
